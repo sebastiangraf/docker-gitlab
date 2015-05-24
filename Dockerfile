@@ -1,4 +1,4 @@
-FROM 41b730702607
+FROM debian:8.0
 MAINTAINER sebastian.graf@konschtanz.de
 
 RUN apt-get update \
