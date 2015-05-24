@@ -1,4 +1,4 @@
-FROM debian:jessie
+FROM 41b730702607
 MAINTAINER sebastian.graf@konschtanz.de
 
 RUN apt-get update \
